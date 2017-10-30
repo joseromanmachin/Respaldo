@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor de Unidades</string>
+    <string name="masa">Masa</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="longitud">Longitud</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="volumen">Volumen</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="almacenamiento">Almacenamiento</string>
+    <string name="sonido">Sonido</string>
+</resources>

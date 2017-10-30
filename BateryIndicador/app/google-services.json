@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "1061037943071",
+    "firebase_url": "https://batery-indicador.firebaseio.com",
+    "project_id": "batery-indicador",
+    "storage_bucket": "batery-indicador.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061037943071:android:ec3f4443de08cebf",
+        "android_client_info": {
+          "package_name": "com.a710company.bateryindicador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061037943071-0rhhc8ld3616uhe1u9tdb98o73am7n4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a710company.bateryindicador",
+            "certificate_hash": "de443f75babd8ee3aca87fa93356c9032abf03ff"
+          }
+        },
+        {
+          "client_id": "1061037943071-r2e16056pm7a4jiafrumjc7m4gqkkn3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3mHXZhX4eVof6KgmUIhsiTwIkCCbG_Pc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
